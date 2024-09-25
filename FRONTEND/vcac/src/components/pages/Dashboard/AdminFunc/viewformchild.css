@@ -1,0 +1,10 @@
+.horizontal-scroll {
+    overflow: hidden;
+    overflow-x: auto;
+    clear: both;
+    width: 120%;
+  }
+  
+  .my-table {
+    min-width: rem-calc(840);
+  }
